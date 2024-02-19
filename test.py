@@ -1,4 +1,5 @@
 from main import StudentsInMLOps
+import pytest
 
 def test_enroll_and_drop_students():
     classroom = StudentsInMLOps()
